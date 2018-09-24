@@ -39,3 +39,4 @@ User-Agent Switcher or User-Agent Switcher for Chrome
 https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/
 
 https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=ru
+
