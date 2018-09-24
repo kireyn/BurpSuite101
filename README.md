@@ -18,7 +18,8 @@ https://www.google.com/chrome/
 
 Extentions:
 
-Wappalyzer - 
+Wappalyzer  
+
 https://www.wappalyzer.com/
 
 FoxyProxy or TunnelSwitch
