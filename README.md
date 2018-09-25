@@ -48,3 +48,17 @@ https://www.hacker101.com/
 
 https://www.owasp.org/index.php/OWASP_Juice_Shop_Project
 
+What you are going to read after:
+
+https://leanpub.com/ltr101-breaking-into-infosec
+
+https://leanpub.com/web-hacking-101
+
+https://www.amazon.co.uk/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/
+
+https://www.owasp.org/images/1/19/OTGv4.pdf
+
+https://www.amazon.co.uk/Mastering-Modern-Web-Penetration-Testing/dp/1785284584/
+
+
+
