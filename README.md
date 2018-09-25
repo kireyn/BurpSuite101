@@ -152,6 +152,20 @@ Replay requests quickly and  from any tool inside of Burp
 
 Perform manual testing
 
+Sequencer
+
+Decoder
+
+Comparer
+
+Project Options
+
+User Options
+
+Alerts
+
+Extender
+
 Useful Burp Suite Extensions
 
 Active Scan ++
