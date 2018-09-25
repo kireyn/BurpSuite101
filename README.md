@@ -2,7 +2,7 @@
 
 Set up your own BurpSuite for fun and profit.
 
-What we need:
+# What we need:
 
 BurpSuite Community Edition or OWASP_Zed_Attack_Proxy_Project
 
@@ -40,7 +40,9 @@ https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/
 
 https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=ru
 
-What we are going to play with:
+Use special Browser Profile for testing
+
+# What we are going to play with:
 
 Hacker101 and OWASP_Juice_Shop_Project
 
@@ -86,7 +88,11 @@ nmp start
 
 Look at http://IP_from_ipconfig:3000/
 
-What you are going to read after:
+# Let's play: 
+
+
+
+# What you are going to read after:
 
 https://leanpub.com/ltr101-breaking-into-infosec
 
