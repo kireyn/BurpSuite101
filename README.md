@@ -124,14 +124,33 @@ Set wild scale configuration for the traffic flowing through Burp
 
 Spider 
 
-Spidering will find you all the linked content: Pages,scripts and images.
+Spidering will find you all the linked content: Pages,scripts and images
 
-Content discovery is finding unlinked content by either guesing or brute force.  
+Content discovery is finding unlinked content by either guesing or brute force  
+
+Scanner
+
+Automatically scan and  fuzz all traffic for common vulnerabilities  
 
 Burp Intruder
 
+Set up robust, automated/scripted testing easily
 
+"Fuzz" parameters, paths, etc, etc
 
+Bruteforce Passwords
+
+Content discovery with lists
+
+Iterating ID's, etc, etc
+
+++
+
+Burp Reapeter
+
+Replay requests quickly and  from any tool inside of Burp
+
+Perform manual testing
 
 Useful Burp Suite Extensions
 
@@ -152,6 +171,14 @@ Retire.JS
 JSON Beatifier
 
 Authmatrix
+
+Useful lists:
+
+https://github.com/danielmiessler/SecLists
+
+https://github.com/fuzzdb-project/fuzzdb
+
+https://github.com/Bo0oM/fuzz.txt
 
 # What you are going to read after:
 
