@@ -4,7 +4,7 @@ Set up your own BurpSuite for fun and profit.
 
 # What we need:
 
-BurpSuite Community Edition or OWASP_Zed_Attack_Proxy_Project
+## BurpSuite Community Edition or OWASP_Zed_Attack_Proxy_Project
 
 https://portswigger.net/burp/communitydownload
 
@@ -16,7 +16,7 @@ https://www.mozilla.org/en-US/firefox/new/
 
 https://www.google.com/chrome/
 
-Use special Browser Profile for testing, this preventing you from leaking your creds. 
+Use special Browser Profile for testing, thus preventing you from leaking your creds. 
 
 Useful extensions:
 
@@ -52,7 +52,7 @@ You need test Gmail account for Hacker101
 
 https://www.owasp.org/index.php/OWASP_Juice_Shop_Project
 
-How to setup your own playground on Ubuntu VM:
+How to set up your own playground on Ubuntu VM:
 
 Download Ubuntu Server 18.04.1 LTS
 
@@ -124,9 +124,9 @@ Set wild scale configuration for the traffic flowing through Burp
 
 Spider 
 
-Spidering will find you all the linked content: Pages,scripts and images, ...
+Spidering will find you all the linked content: Pages, scripts and images, ...
 
-Content discovery is finding unlinked content by either guesing or brute force  
+Content discovery is finding unlinked content by either guessing or brute force  
 
 Scanner
 
@@ -154,9 +154,15 @@ Perform manual testing
 
 Sequencer
 
+Analyzing the quality of randomness in a sample of data
+
 Decoder
 
+Transforming encoded data into its canonical form
+
 Comparer
+
+Performing a comparison (a visual "diff") between any two items of data
 
 Project Options
 
@@ -165,6 +171,8 @@ User Options
 Alerts
 
 Extender
+
+Power on extensions only in case of need
 
 Useful Burp Suite Extensions
 
@@ -205,6 +213,10 @@ https://www.amazon.co.uk/Web-Application-Hackers-Handbook-Exploiting/dp/11180264
 https://www.owasp.org/images/1/19/OTGv4.pdf
 
 https://www.amazon.co.uk/Mastering-Modern-Web-Penetration-Testing/dp/1785284584/
+
+
+
+
 
 
 
