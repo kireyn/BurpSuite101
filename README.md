@@ -104,9 +104,27 @@ Generate Certificate
 
 http://burp
 
-Proxy Tab
+Target Tab 
 
-Target Tab (Site Map and Scope)
+Focus on specific sites
+
+Focus  on specific functions
+
+Visualize attack  surface
+
+Set "Scope" to filter or other tools
+
+Proxy Tab 
+
+Trap/Modify live traffic
+
+View all  traffic
+
+Set wild scale configuration for the traffic flowing through Burp
+
+Spider 
+
+Burp Intruder
 
 
 
