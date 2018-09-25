@@ -46,7 +46,45 @@ Hacker101 and OWASP_Juice_Shop_Project
 
 https://www.hacker101.com/
 
+You need test Gmail account for Hacker101  
+
 https://www.owasp.org/index.php/OWASP_Juice_Shop_Project
+
+How to setup your own playground on Ubuntu VM:
+
+Download Ubuntu Server 18.04.1 LTS
+
+https://www.ubuntu.com/download/server
+
+In terninal:
+
+sudo -i
+
+apt update
+
+apt upgrade
+
+ifconfig
+
+apt install curl
+
+curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
+
+sudo apt install -y nodejs
+
+mkdir JuiceShop
+
+cd JuiceShop/
+
+wget https://github.com/bkimminich/juice-shop/releases/download/v7.5.1/juice-shop-7.5.1_node10_linux_x64.tgz
+
+tar -zxvf juice-shop-7.5.1_node10_linux_x64.tgz
+
+cd juice-shop-7.5.1/
+
+nmp start
+
+Look at http://IP_from_ipconfig:3000/
 
 What you are going to read after:
 
