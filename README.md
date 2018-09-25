@@ -40,7 +40,7 @@ https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/
 
 https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=ru
 
-Use special Browser Profile for testing
+Use special Browser Profile for testing, this preventing you from leaking your creds. 
 
 # What we are going to play with:
 
