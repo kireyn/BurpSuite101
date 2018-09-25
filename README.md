@@ -16,7 +16,9 @@ https://www.mozilla.org/en-US/firefox/new/
 
 https://www.google.com/chrome/
 
-Extensions:
+Use special Browser Profile for testing, this preventing you from leaking your creds. 
+
+Useful extensions:
 
 Wappalyzer  
 
@@ -40,9 +42,7 @@ https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/
 
 https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=ru
 
-Use special Browser Profile for testing, this preventing you from leaking your creds. 
-
-# What we are going to play with:
+ # What we are going to play with:
 
 Hacker101 and OWASP_Juice_Shop_Project
 
@@ -90,7 +90,25 @@ Look at http://IP_from_ipconfig:3000/
 
 # Let's play: 
 
+Useful Burp Suite Extensions
 
+Active Scan ++
+
+Additionalr Scanner Checks
+
+Backslash Powered Scanners
+
+Param Miner
+
+Site Map Extractor
+
+Soft vulnerability Scanner
+
+Retire.JS
+
+JSON Beatifier
+
+Authmatrix
 
 # What you are going to read after:
 
