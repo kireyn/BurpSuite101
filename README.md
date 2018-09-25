@@ -118,13 +118,18 @@ Proxy Tab
 
 Trap/Modify live traffic
 
-View all  traffic
+View all traffic
 
 Set wild scale configuration for the traffic flowing through Burp
 
 Spider 
 
+Spidering will find you all the linked content: Pages,scripts and images.
+
+Content discovery is finding unlinked content by either guesing or brute force.  
+
 Burp Intruder
+
 
 
 
