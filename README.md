@@ -58,7 +58,7 @@ Download Ubuntu Server 18.04.1 LTS
 
 https://www.ubuntu.com/download/server
 
-In terninal:
+In terminal:
 
 sudo -i
 
@@ -90,13 +90,25 @@ Look at http://IP_from_ipconfig:3000/
 
 # Let's play: 
 
+Launching Burp Suite in more effective way
+
+java -Djsse.enableSNIExtension=false -jar -Xmx1G /path/to/burp.jar
+
+1G = 1024m = RAM
+
+Or set up BurpSuitePro.vmoptions file in Burp home directory
+
 Burp Setup
 
 Generate Certificate
 
 http://burp
 
-Proxing Targets
+Proxy Tab
+
+Target Tab (Site Map and Scope)
+
+
 
 Useful Burp Suite Extensions
 
