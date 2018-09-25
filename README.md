@@ -90,6 +90,14 @@ Look at http://IP_from_ipconfig:3000/
 
 # Let's play: 
 
+Burp Setup
+
+Generate Certificate
+
+http://burp
+
+Proxing Targets
+
 Useful Burp Suite Extensions
 
 Active Scan ++
