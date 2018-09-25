@@ -10,7 +10,7 @@ https://portswigger.net/burp/communitydownload
 
 https://github.com/zaproxy/zaproxy/wiki/Downloads
 
-Mozilla Firefox or Google Chrome
+## Mozilla Firefox or Google Chrome
 
 https://www.mozilla.org/en-US/firefox/new/ 
 
@@ -18,25 +18,25 @@ https://www.google.com/chrome/
 
 Use special Browser Profile for testing, thus preventing you from leaking your creds. 
 
-Useful extensions:
+## Useful extensions:
 
-Wappalyzer  
+### Wappalyzer  
 
 https://www.wappalyzer.com/
 
-FoxyProxy or TunnelSwitch
+### FoxyProxy or TunnelSwitch
 
 https://getfoxyproxy.org/
 
 https://chrome.google.com/webstore/detail/tunnelswitch/nfpphleklkamlblagdkbkomjmaedanoh
 
-Cookie Editor or EditThisCookie
+### Cookie Editor or EditThisCookie
 
 https://add0n.com/cookie-editor.html
 
 https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=ru
 
-User-Agent Switcher or User-Agent Switcher for Chrome
+### User-Agent Switcher or User-Agent Switcher for Chrome
 
 https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/
 
@@ -44,7 +44,7 @@ https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdh
 
  # What we are going to play with:
 
-Hacker101 and OWASP_Juice_Shop_Project
+## Hacker101 and OWASP_Juice_Shop_Project
 
 https://www.hacker101.com/
 
@@ -52,13 +52,13 @@ You need test Gmail account for Hacker101
 
 https://www.owasp.org/index.php/OWASP_Juice_Shop_Project
 
-How to set up your own playground on Ubuntu VM:
+## How to set up your own playground on Ubuntu VM:
 
 Download Ubuntu Server 18.04.1 LTS
 
 https://www.ubuntu.com/download/server
 
-In terminal:
+## In terminal:
 
 sudo -i
 
@@ -90,7 +90,7 @@ Look at http://IP_from_ipconfig:3000/
 
 # Let's play: 
 
-Launching Burp Suite in more effective way
+## Launching Burp Suite in more effective way
 
 java -Djsse.enableSNIExtension=false -jar -Xmx1G /path/to/burp.jar
 
@@ -98,13 +98,13 @@ java -Djsse.enableSNIExtension=false -jar -Xmx1G /path/to/burp.jar
 
 Or set up BurpSuitePro.vmoptions file in Burp home directory
 
-Burp Setup
+## Burp Setup
 
 Generate Certificate
 
 http://burp
 
-Target Tab 
+### Target Tab 
 
 Focus on specific sites
 
@@ -114,7 +114,7 @@ Visualize attack  surface
 
 Set "Scope" to filter or other tools
 
-Proxy Tab 
+### Proxy Tab 
 
 Trap/Modify live traffic
 
@@ -122,17 +122,17 @@ View all traffic
 
 Set wild scale configuration for the traffic flowing through Burp
 
-Spider 
+### Spider 
 
 Spidering will find you all the linked content: Pages, scripts and images, ...
 
 Content discovery is finding unlinked content by either guessing or brute force  
 
-Scanner
+### Scanner
 
 Automatically scan and  fuzz all traffic for common vulnerabilities  
 
-Burp Intruder
+### Burp Intruder
 
 Set up robust, automated/scripted testing easily
 
@@ -146,35 +146,35 @@ Iterating ID's, etc, etc
 
 ++
 
-Burp Reapeter
+### Burp Reapeter
 
 Replay requests quickly and  from any tool inside of Burp
 
 Perform manual testing
 
-Sequencer
+### Sequencer
 
 Analyzing the quality of randomness in a sample of data
 
-Decoder
+### Decoder
 
 Transforming encoded data into its canonical form
 
-Comparer
+### Comparer
 
 Performing a comparison (a visual "diff") between any two items of data
 
-Project Options
+### Project Options
 
-User Options
+### User Options
 
-Alerts
+### Alerts
 
-Extender
+### Extender
 
 Power on extensions only in case of need
 
-Useful Burp Suite Extensions
+### Useful Burp Suite Extensions
 
 Active Scan ++
 
@@ -194,7 +194,7 @@ JSON Beatifier
 
 Authmatrix
 
-Useful lists:
+## Useful lists:
 
 https://github.com/danielmiessler/SecLists
 
