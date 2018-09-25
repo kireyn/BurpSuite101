@@ -164,12 +164,6 @@ Transforming encoded data into its canonical form
 
 Performing a comparison (a visual "diff") between any two items of data
 
-### Project Options
-
-### User Options
-
-### Alerts
-
 ### Extender
 
 Power on extensions only in case of need
