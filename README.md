@@ -82,9 +82,9 @@ wget https://github.com/bkimminich/juice-shop/releases/download/v7.5.1/juice-sho
 
 tar -zxvf juice-shop-7.5.1_node10_linux_x64.tgz
 
-cd juice-shop-7.5.1/
+cd juice-shop_7.5.1
 
-nmp start
+npm start
 
 Look at http://IP_from_ipconfig:3000/
 
@@ -193,8 +193,6 @@ Authmatrix
 https://github.com/danielmiessler/SecLists
 
 https://github.com/fuzzdb-project/fuzzdb
-
-https://github.com/Bo0oM/fuzz.txt
 
 # What you are going to read after:
 
